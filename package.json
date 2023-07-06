@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.7.14",
+    "@heroicons/react": "^1.0.6",
+    "@tremor/react": "^2.7.1",
+    "country-state-city": "^3.1.4",
+    "graphql": "^16.6.0",
+    "react-select": "^5.7.3"
+  }
+}
